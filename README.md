@@ -20,7 +20,14 @@ Most of my work sits around GenAI applications, agent-like systems, and practica
 
 > Suggested GitHub bio: `AI & Full-Stack Developer building GenAI products with Next.js, Node.js, FastAPI, Gemini, and real-world agent workflows.`
 
-## ⚙️ What I'm Building
+## 🧠 Core Engineering Signals
+
+- I build projects with clear frontend, backend, and AI-layer separation.
+- I focus on real-world product workflows, not isolated tutorial demos.
+- I care about reliability, maintainability, clean documentation, and deployability.
+- My strongest project signals are GenAI products, API-driven systems, and real-time backend architecture.
+
+## ⚙️ Currently Building
 
 - GenAI products that solve specific user problems instead of acting like generic chat wrappers
 - Full-stack systems with separate frontend and backend architecture
@@ -66,13 +73,7 @@ Built as a scalable product with separation between frontend, backend, and AI la
 
 ### Scholr
 
-**Problem**
-
-Students need one focused workspace for notes, doubt solving, research, and history instead of juggling multiple disconnected tools.
-
-**Solution**
-
-Scholr combines academic assistance, knowledge retrieval, and persistent history into a product-oriented learning workflow.
+**Scholr is an AI-powered academic productivity platform designed to help students generate notes, solve doubts, research faster, and track learning history.**
 
 **Key Features**
 
@@ -95,9 +96,7 @@ Next.js, TypeScript, Tailwind CSS, FastAPI, Python, Gemini API
 
 ### QueuePulse
 
-**Problem:** Real-time systems need reliability, retries, and observability, which basic implementations lack.
-
-**Solution:** A distributed real-time messaging system with queues, retries, dead-letter queues (DLQ), and monitoring.
+**QueuePulse is a distributed real-time messaging system with WebSockets, queues, retries, DLQ, and observability — designed to demonstrate backend reliability and system-design thinking.**
 
 **Key Features**
 - WebSocket-based real-time messaging
@@ -192,6 +191,10 @@ Node.js, JavaScript, HTML, CSS, Gemini API
 - Source code: [crisismind-lite](https://github.com/tauqxxr7/crisismind-lite)
 - Screenshot/demo: Included in repo README
 
+[![AI Career Copilot](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=ai-career-copilot&theme=tokyonight)](https://github.com/tauqxxr7/ai-career-copilot)
+[![PolicyPilot Agent](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=policypilot-agent&theme=tokyonight)](https://github.com/tauqxxr7/policypilot-agent)
+[![CrisisMind Lite](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=crisismind-lite&theme=tokyonight)](https://github.com/tauqxxr7/crisismind-lite)
+
 ## 🧰 Tech Stack
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
@@ -208,10 +211,10 @@ Node.js, JavaScript, HTML, CSS, Gemini API
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Render](https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=46E3B7)](#)
 
-## 🏗 System Thinking / Architecture
+## 🏗 System Design Mindset
 
 ```text
-User → Frontend → Backend → AI Layer → Response → Storage
+User → Frontend → Backend API → AI Layer → Response → Storage / Observability
 ```
 
 This is the lens I use when building product-style systems: clear separation of concerns, maintainable service boundaries, and deployable architecture that can grow without becoming messy.
