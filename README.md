@@ -33,6 +33,7 @@ Most of my work sits around GenAI applications, agent-like systems, and practica
 - Full-stack systems with separate frontend and backend architecture
 - AI workflows designed for real-world usage, deployability, and maintainability
 - Projects that showcase practical product engineering across UI, API, and model integration
+- Research-oriented machine learning work alongside product and systems projects
 
 ## 🌟 Flagship Project
 
@@ -140,6 +141,28 @@ Next.js, React, Node.js, Express, Gemini API, Render, Vercel
 - Source code: [ai-career-copilot](https://github.com/tauqxxr7/ai-career-copilot)
 - Screenshot/demo: Included in repo README
 
+### CKD Hyperparameter Optimization Study
+
+**Problem:** Healthcare ML models need strong tuning and evaluation before they can be useful for clinical decision-support tasks.
+
+**Solution:** A machine learning research project comparing hyperparameter optimization methods for Chronic Kidney Disease prediction and staging.
+
+**Key Focus**
+
+- CKD prediction using clinical datasets
+- Hyperparameter optimization comparison
+- Evaluation across ML models
+- Healthcare-focused machine learning workflow
+- Research-style documentation and analysis
+
+**Tech Stack:** Python, Machine Learning, XGBoost, Random Forest, SVM, Hyperparameter Optimization
+
+**Links**
+- Source Code: https://github.com/tauqxxr7/ckd-hpo-study
+- Paper/Report: add link if available
+- Live Demo: Not applicable / research project
+- Screenshots: Add charts/results if available
+
 ### PolicyPilot Agent
 
 **Problem**
@@ -192,6 +215,7 @@ Node.js, JavaScript, HTML, CSS, Gemini API
 - Screenshot/demo: Included in repo README
 
 [![AI Career Copilot](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=ai-career-copilot&theme=tokyonight)](https://github.com/tauqxxr7/ai-career-copilot)
+[![CKD HPO Study](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=ckd-hpo-study&theme=tokyonight)](https://github.com/tauqxxr7/ckd-hpo-study)
 [![PolicyPilot Agent](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=policypilot-agent&theme=tokyonight)](https://github.com/tauqxxr7/policypilot-agent)
 [![CrisisMind Lite](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=crisismind-lite&theme=tokyonight)](https://github.com/tauqxxr7/crisismind-lite)
 
