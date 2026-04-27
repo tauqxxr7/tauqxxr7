@@ -15,7 +15,7 @@
 
 I build AI-first products with a full-stack and ML systems mindset. My work focuses on practical GenAI applications, data science projects, backend APIs, deployable workflows, and recruiter-ready engineering documentation.
 
-Current direction: AI/ML engineering, data science, production ML systems, and graduate-level research preparation for MS programs.
+Current direction: AI/ML engineering, data science, production ML systems, and graduate-level research preparation for MS programs. I am shaping my portfolio around projects that show FAANG-style engineering habits: clear architecture, measurable evaluation, tests, CI, documentation, and product thinking.
 
 ## Core Signals
 
@@ -34,9 +34,10 @@ Current direction: AI/ML engineering, data science, production ML systems, and g
 
 - Production-style `src/` ML pipeline for validation, preprocessing, feature engineering, training, evaluation, and inference
 - Logistic Regression baseline, Random Forest challenger, and optional XGBoost support
-- Explainability through model driver rankings and customer-level risk factors
+- Explainability through model driver rankings, permutation importance, and customer-level risk factors
 - FastAPI endpoints for `/health`, `/predict`, and `/model-info`
 - Business retention recommendations for high-risk customers
+- License-safe synthetic dataset with clear limitations and honest model reporting
 - Tests, CI, model card, dataset card, architecture docs, and recruiter/MS admissions documentation
 
 **Tech Stack:** Python, pandas, scikit-learn, FastAPI, Pydantic, pytest, GitHub Actions
