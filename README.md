@@ -67,6 +67,14 @@ I build AI-first products, backend systems, and ML workflows with a focus on dep
 
 [![CKD HPO Study](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=ckd-hpo-study&theme=tokyonight)](https://github.com/tauqxxr7/ckd-hpo-study)
 
+### XAI Heavy Rainfall Prediction
+- Source Code: https://github.com/tauqxxr7/xai-heavy-rainfall-prediction
+- Summary: Explainable AI project using Random Forest and SHAP to interpret synthetic heavy rainfall event prediction.
+- Live Demo: Not applicable / research project
+- Screenshots: Available in repository
+
+[![XAI Heavy Rainfall Prediction](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=xai-heavy-rainfall-prediction&theme=tokyonight)](https://github.com/tauqxxr7/xai-heavy-rainfall-prediction)
+
 ### AI Career Copilot
 - Source Code: https://github.com/tauqxxr7/ai-career-copilot
 - Live Demo: Deployment in progress
