@@ -12,7 +12,7 @@ AI, Data Science, and Full-Stack Engineer building deployable ML, GenAI, and bac
 
 ## 👨‍💻 About Me
 
-I build AI-first products, backend systems, and ML workflows with a focus on deployability, clean architecture, and strong documentation. My best work sits at the intersection of user-facing apps, API design, and execution-focused engineering.
+I build AI-first products, backend systems, and ML workflows with a focus on deployability, clean architecture, and strong documentation.
 
 ## 🧪 What I Demonstrate
 
