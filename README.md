@@ -24,9 +24,26 @@ I build AI-first products, backend systems, and ML workflows with a focus on dep
 ## 📌 Featured Projects
 
 ### Customer Churn Prediction System
-- Source Code: Coming soon
-- Live Demo: Coming soon
-- Screenshots: Coming soon
+
+**Problem:** Businesses need to identify customers likely to churn to take proactive retention actions.
+
+**Solution:** A machine learning system that predicts customer churn using structured data and standard classification models.
+
+**Key Features**
+
+- Data preprocessing and feature engineering
+- Model training using classification algorithms
+- Evaluation using accuracy and performance metrics
+- Clear pipeline for training and testing models
+- Structured ML workflow for reproducibility
+- Built with a structured ML pipeline including preprocessing, training, and evaluation stages.
+
+**Tech Stack:** Python, Pandas, Scikit-learn, Machine Learning
+
+**Links**
+- Source Code: https://github.com/tauqxxr7/churn-prediction-system
+- Live Demo: Not applicable (ML project)
+- Screenshots: Add model output/metrics if available
 
 ### Scholr
 - Source Code: https://github.com/tauqxxr7/scholr
