@@ -18,7 +18,7 @@ I build AI-first products, backend systems, and ML workflows with a focus on dep
 
 - ML research: CKD HPO + Churn Prediction
 - GenAI products: Scholr + AI Career Copilot
-- Backend systems: QueuePulse
+- Backend systems: QueuePulse + Mini MapReduce Engine + Mini Search Engine
 - AI agents: PolicyPilot
 
 ## 📌 Featured Projects
@@ -88,6 +88,26 @@ I build AI-first products, backend systems, and ML workflows with a focus on dep
 - Screenshots: Coming soon
 
 [![PolicyPilot Agent](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=policypilot-agent&theme=tokyonight)](https://github.com/tauqxxr7/policypilot-agent)
+
+## 🆕 Recent Additions
+
+### AI Mock Interview Coach
+- Source Code: https://github.com/tauqxxr7/ai-mock-interview-coach
+- Summary: Multi-agent interview coaching system with FastAPI orchestration, structured answer evaluation, adaptive difficulty control, and final feedback generation.
+
+[![AI Mock Interview Coach](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=ai-mock-interview-coach&theme=tokyonight)](https://github.com/tauqxxr7/ai-mock-interview-coach)
+
+### Mini MapReduce Engine
+- Source Code: https://github.com/tauqxxr7/mini-mapreduce-engine
+- Summary: Distributed systems project in Go that recreates core MapReduce ideas with a master coordinator, gRPC workers, task leasing, retries, and deterministic word-count output.
+
+[![Mini MapReduce Engine](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=mini-mapreduce-engine&theme=tokyonight)](https://github.com/tauqxxr7/mini-mapreduce-engine)
+
+### Mini Search Engine
+- Source Code: https://github.com/tauqxxr7/mini-search-engine
+- Summary: Production-minded Python search engine with crawling, indexing, BM25 ranking, PageRank, autocomplete, metrics, and a Flask UI/API.
+
+[![Mini Search Engine](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=mini-search-engine&theme=tokyonight)](https://github.com/tauqxxr7/mini-search-engine)
 
 ## 🧰 Tech Stack
 
