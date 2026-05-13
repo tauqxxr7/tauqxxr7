@@ -63,16 +63,12 @@ Predicts likely customer churn from structured business data using a reproducibl
 - Live App: https://scholr-coral.vercel.app
 - Screenshots: Available in repository
 
-[![Scholr](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=scholr&theme=tokyonight)](https://github.com/tauqxxr7/scholr)
-
 ### QueuePulse
 - Value: Distributed real-time messaging system built to show retries, DLQ, observability, and backend reliability patterns.
 - Tech Stack: Next.js, FastAPI, RabbitMQ, Redis, PostgreSQL
 - Source Code: https://github.com/tauqxxr7/queuepulse
 - Status: Deployment in progress
 - Screenshots: Available in repository
-
-[![QueuePulse](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=queuepulse&theme=tokyonight)](https://github.com/tauqxxr7/queuepulse)
 
 ### CKD Hyperparameter Optimization Study
 - Value: Healthcare ML study comparing hyperparameter optimization methods for CKD prediction and staging.
@@ -81,16 +77,12 @@ Predicts likely customer churn from structured business data using a reproducibl
 - Status: Research project
 - Screenshots: Coming soon
 
-[![CKD HPO Study](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=ckd-hpo-study&theme=tokyonight)](https://github.com/tauqxxr7/ckd-hpo-study)
-
 ### XAI Heavy Rainfall Prediction
 - Value: Explainable AI project using Random Forest and SHAP to interpret synthetic heavy rainfall event prediction.
 - Tech Stack: Python, Random Forest, SHAP, Machine Learning
 - Source Code: https://github.com/tauqxxr7/xai-heavy-rainfall-prediction
 - Status: Research project
 - Screenshots: Available in repository
-
-[![XAI Heavy Rainfall Prediction](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=xai-heavy-rainfall-prediction&theme=tokyonight)](https://github.com/tauqxxr7/xai-heavy-rainfall-prediction)
 
 ### AI Career Copilot
 - Value: GenAI career assistant for resume analysis, interview prep, and roadmap generation.
@@ -99,16 +91,12 @@ Predicts likely customer churn from structured business data using a reproducibl
 - Status: Deployment in progress
 - Screenshots: Available in repository
 
-[![AI Career Copilot](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=ai-career-copilot&theme=tokyonight)](https://github.com/tauqxxr7/ai-career-copilot)
-
 ### PolicyPilot Agent
 - Value: AI support agent for policy assistance, FAQ handling, routing, and safe response workflows.
 - Tech Stack: Python, Flask, Gemini
 - Source Code: https://github.com/tauqxxr7/policypilot-agent
 - Status: Deployment in progress
 - Screenshots: Coming soon
-
-[![PolicyPilot Agent](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=policypilot-agent&theme=tokyonight)](https://github.com/tauqxxr7/policypilot-agent)
 
 ---
 
@@ -120,23 +108,17 @@ Predicts likely customer churn from structured business data using a reproducibl
 - Source Code: https://github.com/tauqxxr7/ai-mock-interview-coach
 - Status: Backend AI system
 
-[![AI Mock Interview Coach](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=ai-mock-interview-coach&theme=tokyonight)](https://github.com/tauqxxr7/ai-mock-interview-coach)
-
 ### Mini MapReduce Engine
 - Value: Distributed systems mini-clone of MapReduce with gRPC workers, task leasing, retries, and deterministic output.
 - Tech Stack: Go, gRPC, distributed systems
 - Source Code: https://github.com/tauqxxr7/mini-mapreduce-engine
 - Status: Systems design / backend project
 
-[![Mini MapReduce Engine](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=mini-mapreduce-engine&theme=tokyonight)](https://github.com/tauqxxr7/mini-mapreduce-engine)
-
 ### Mini Search Engine
 - Value: Information retrieval system with crawling, inverted index, BM25 ranking, PageRank, autocomplete, query cache, and metrics API.
 - Tech Stack: Python, Flask, SQLite, BM25, PageRank
 - Source Code: https://github.com/tauqxxr7/mini-search-engine
 - Status: Live demo available in repository
-
-[![Mini Search Engine](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=mini-search-engine&theme=tokyonight)](https://github.com/tauqxxr7/mini-search-engine)
 
 ---
 
@@ -173,8 +155,8 @@ User → Frontend → Backend API → AI Layer → Response → Storage / Observ
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tauqxxr7&show_icons=true&hide_border=true&theme=transparent)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tauqxxr7&layout=compact&hide_border=true&theme=transparent)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tauqxxr7&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&theme=default&cache_seconds=1800)](https://github.com/tauqxxr7)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tauqxxr7&layout=compact&hide_border=true&theme=default&langs_count=8&cache_seconds=1800)](https://github.com/tauqxxr7?tab=repositories)
 
 ---
 
