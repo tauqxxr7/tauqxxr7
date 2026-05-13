@@ -124,6 +124,12 @@ Predicts likely customer churn from structured business data using a reproducibl
 
 ---
 
+## 🎥 Project Demo
+
+![Mini Search Engine Demo](https://raw.githubusercontent.com/tauqxxr7/mini-search-engine/main/docs/demo.gif)
+
+---
+
 ## 🧰 Tech Stack
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
@@ -160,6 +166,9 @@ User → Frontend → Backend API → AI Layer → Response → Storage / Observ
 ![Tauqeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=tauqxxr7&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tauqxxr7&layout=compact&theme=tokyonight&hide_border=true)
+
+## 🔥 Contribution Streak
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=tauqxxr7&theme=tokyonight&hide_border=true)
 
 ---
