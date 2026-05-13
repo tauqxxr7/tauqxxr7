@@ -51,7 +51,7 @@ Predicts likely customer churn from structured business data using a reproducibl
 - Tech Stack: Python, Pandas, Scikit-learn
 - Source Code: https://github.com/tauqxxr7/churn-prediction-system
 - Status: Research / portfolio ML project
-- Visuals: Screenshots coming soon
+- Results: Evaluation metrics and model documentation available in repository
 
 ---
 
@@ -62,7 +62,7 @@ Predicts likely customer churn from structured business data using a reproducibl
 - Value: AI academic workspace for research, notes generation, and doubt solving in a live product flow.
 - Tech Stack: Next.js, TypeScript, FastAPI, Python, Gemini, Tailwind CSS
 - Status: Live MVP
-- Live App: https://scholr-coral.vercel.app
+- Live Demo: https://scholr-coral.vercel.app
 - Screenshots: Available in repository
 
 ### QueuePulse
