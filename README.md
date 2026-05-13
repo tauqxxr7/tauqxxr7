@@ -130,6 +130,15 @@ Predicts likely customer churn from structured business data using a reproducibl
 
 ---
 
+## 🎥 Demo Proof
+
+- Scholr: product walkthrough coming soon — Dashboard → AI module → generated response → learning history  
+  Docs: https://github.com/tauqxxr7/scholr/blob/main/docs/demo/DEMO_SCRIPT.md
+- QueuePulse: architecture walkthrough — WebSocket → Queue → Worker → Retry → DLQ → Observability  
+  Docs: https://github.com/tauqxxr7/queuepulse/blob/main/docs/architecture/queuepulse-flow.md
+
+---
+
 ## 🧰 Tech Stack
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
