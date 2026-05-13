@@ -1,6 +1,8 @@
-# 🚀 Building AI-powered full-stack products that solve real-world problems
+# 🚀 AI Engineer building GenAI products, ML systems, and scalable backend architecture
 
-AI, Data Science, and Full-Stack Engineer building deployable ML, GenAI, and backend systems.
+AI, ML, and Full-Stack Engineer focused on GenAI applications, backend systems, deployable ML workflows, and scalable product engineering.
+
+> Strongest signals: GenAI products • Backend systems • ML research • Information retrieval • AI agents
 
 ![Profile views](https://komarev.com/ghpvc/?username=tauqxxr7&label=Profile%20views&color=0f172a&style=flat)
 
@@ -155,8 +157,10 @@ User → Frontend → Backend API → AI Layer → Response → Storage / Observ
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tauqxxr7&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&theme=default&cache_seconds=1800)](https://github.com/tauqxxr7)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tauqxxr7&layout=compact&hide_border=true&theme=default&langs_count=8&cache_seconds=1800)](https://github.com/tauqxxr7?tab=repositories)
+![Tauqeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=tauqxxr7&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tauqxxr7&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=tauqxxr7&theme=tokyonight&hide_border=true)
 
 ---
 
