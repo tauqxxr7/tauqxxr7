@@ -10,104 +10,135 @@ AI, Data Science, and Full-Stack Engineer building deployable ML, GenAI, and bac
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tauqeer-sameer-85b868235)
 [![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tauqeerplayer@gmail.com)
 
+---
+
 ## 👨‍💻 About Me
 
 I build AI-first products, backend systems, and ML workflows with a focus on deployability, clean architecture, and strong documentation.
+
+---
+
+## 🎯 Recruiter Snapshot
+
+- ML Engineering: Churn, CKD, XAI
+- GenAI Products: Scholr, AI Career Copilot
+- Backend/System Design: QueuePulse, Mini MapReduce
+- Search/IR Systems: Mini Search Engine
+- AI Agents: PolicyPilot, AI Mock Interview Coach
+
+---
 
 ## 🧪 What I Demonstrate
 
 - ML research: CKD HPO + Churn Prediction
 - GenAI products: Scholr + AI Career Copilot
-- Backend systems: QueuePulse + Mini MapReduce Engine + Mini Search Engine
-- AI agents: PolicyPilot
+- Backend systems: QueuePulse + Mini MapReduce Engine
+- Search/IR systems: Mini Search Engine
+- AI agents: PolicyPilot + AI Mock Interview Coach
+
+---
 
 ## 📌 Featured Projects
 
+## 🌟 Flagship Project
+
 ### Customer Churn Prediction System
 
-**Problem:** Businesses need to identify customers likely to churn to take proactive retention actions.
+Predicts likely customer churn from structured business data using a reproducible machine learning workflow.
 
-**Solution:** A machine learning system that predicts customer churn using structured data and standard classification models.
-
-**Key Features**
-
-- Data preprocessing and feature engineering
-- Model training using classification algorithms
-- Evaluation using accuracy and performance metrics
-- Clear pipeline for training and testing models
-- Structured ML workflow for reproducibility
-- Built with a structured ML pipeline including preprocessing, training, and evaluation stages.
-
-**Tech Stack:** Python, Pandas, Scikit-learn, Machine Learning
-
-**Links**
+- Tech Stack: Python, Pandas, Scikit-learn
 - Source Code: https://github.com/tauqxxr7/churn-prediction-system
-- Live Demo: Not applicable (ML project)
-- Screenshots: Add model output/metrics if available
+- Status: Research / portfolio ML project
+- Visuals: Screenshots coming soon
+
+---
+
+## 📌 Featured Projects
 
 ### Scholr
 - Source Code: https://github.com/tauqxxr7/scholr
-- Live Demo: Deployment in progress
+- Value: AI academic workspace for research, notes generation, and doubt solving in a live product flow.
+- Tech Stack: Next.js, TypeScript, FastAPI, Python, Gemini, Tailwind CSS
+- Status: Live MVP
+- Live App: https://scholr-coral.vercel.app
 - Screenshots: Available in repository
 
 [![Scholr](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=scholr&theme=tokyonight)](https://github.com/tauqxxr7/scholr)
 
 ### QueuePulse
+- Value: Distributed real-time messaging system built to show retries, DLQ, observability, and backend reliability patterns.
+- Tech Stack: Next.js, FastAPI, RabbitMQ, Redis, PostgreSQL
 - Source Code: https://github.com/tauqxxr7/queuepulse
-- Live Demo: Deployment in progress
+- Status: Deployment in progress
 - Screenshots: Available in repository
 
 [![QueuePulse](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=queuepulse&theme=tokyonight)](https://github.com/tauqxxr7/queuepulse)
 
 ### CKD Hyperparameter Optimization Study
+- Value: Healthcare ML study comparing hyperparameter optimization methods for CKD prediction and staging.
+- Tech Stack: Python, XGBoost, Random Forest, SVM, HPO workflows
 - Source Code: https://github.com/tauqxxr7/ckd-hpo-study
-- Paper/Report: Coming soon
-- Live Demo: Not applicable / research project
+- Status: Research project
 - Screenshots: Coming soon
 
 [![CKD HPO Study](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=ckd-hpo-study&theme=tokyonight)](https://github.com/tauqxxr7/ckd-hpo-study)
 
 ### XAI Heavy Rainfall Prediction
+- Value: Explainable AI project using Random Forest and SHAP to interpret synthetic heavy rainfall event prediction.
+- Tech Stack: Python, Random Forest, SHAP, Machine Learning
 - Source Code: https://github.com/tauqxxr7/xai-heavy-rainfall-prediction
-- Summary: Explainable AI project using Random Forest and SHAP to interpret synthetic heavy rainfall event prediction.
-- Live Demo: Not applicable / research project
+- Status: Research project
 - Screenshots: Available in repository
 
 [![XAI Heavy Rainfall Prediction](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=xai-heavy-rainfall-prediction&theme=tokyonight)](https://github.com/tauqxxr7/xai-heavy-rainfall-prediction)
 
 ### AI Career Copilot
+- Value: GenAI career assistant for resume analysis, interview prep, and roadmap generation.
+- Tech Stack: Next.js, Node.js, Express, Gemini, TypeScript
 - Source Code: https://github.com/tauqxxr7/ai-career-copilot
-- Live Demo: Deployment in progress
+- Status: Deployment in progress
 - Screenshots: Available in repository
 
 [![AI Career Copilot](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=ai-career-copilot&theme=tokyonight)](https://github.com/tauqxxr7/ai-career-copilot)
 
 ### PolicyPilot Agent
+- Value: AI support agent for policy assistance, FAQ handling, routing, and safe response workflows.
+- Tech Stack: Python, Flask, Gemini
 - Source Code: https://github.com/tauqxxr7/policypilot-agent
-- Live Demo: Deployment in progress
+- Status: Deployment in progress
 - Screenshots: Coming soon
 
 [![PolicyPilot Agent](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=policypilot-agent&theme=tokyonight)](https://github.com/tauqxxr7/policypilot-agent)
 
+---
+
 ## 🆕 Recent Additions
 
 ### AI Mock Interview Coach
+- Value: Multi-agent interview system with adaptive questioning, structured evaluation, and final coaching feedback.
+- Tech Stack: FastAPI, Python, multi-agent orchestration, Pydantic
 - Source Code: https://github.com/tauqxxr7/ai-mock-interview-coach
-- Summary: Multi-agent interview coaching system with FastAPI orchestration, structured answer evaluation, adaptive difficulty control, and final feedback generation.
+- Status: Backend AI system
 
 [![AI Mock Interview Coach](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=ai-mock-interview-coach&theme=tokyonight)](https://github.com/tauqxxr7/ai-mock-interview-coach)
 
 ### Mini MapReduce Engine
+- Value: Distributed systems mini-clone of MapReduce with gRPC workers, task leasing, retries, and deterministic output.
+- Tech Stack: Go, gRPC, distributed systems
 - Source Code: https://github.com/tauqxxr7/mini-mapreduce-engine
-- Summary: Distributed systems project in Go that recreates core MapReduce ideas with a master coordinator, gRPC workers, task leasing, retries, and deterministic word-count output.
+- Status: Systems design / backend project
 
 [![Mini MapReduce Engine](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=mini-mapreduce-engine&theme=tokyonight)](https://github.com/tauqxxr7/mini-mapreduce-engine)
 
 ### Mini Search Engine
+- Value: Information retrieval system with crawling, inverted index, BM25 ranking, PageRank, autocomplete, query cache, and metrics API.
+- Tech Stack: Python, Flask, SQLite, BM25, PageRank
 - Source Code: https://github.com/tauqxxr7/mini-search-engine
-- Summary: Production-minded Python search engine with crawling, indexing, BM25 ranking, PageRank, autocomplete, metrics, and a Flask UI/API.
+- Status: Live demo available in repository
 
 [![Mini Search Engine](https://github-readme-stats.vercel.app/api/pin/?username=tauqxxr7&repo=mini-search-engine&theme=tokyonight)](https://github.com/tauqxxr7/mini-search-engine)
+
+---
 
 ## 🧰 Tech Stack
 
@@ -120,11 +151,15 @@ I build AI-first products, backend systems, and ML workflows with a focus on dep
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Gemini API](https://img.shields.io/badge/Gemini_API-1A73E8?style=for-the-badge&logo=google&logoColor=white)](#)
 
+---
+
 ## 🏗 System Design Mindset
 
 ```text
 User → Frontend → Backend API → AI Layer → Response → Storage / Observability
 ```
+
+---
 
 ## 🤝 Open To
 
@@ -134,10 +169,14 @@ User → Frontend → Backend API → AI Layer → Response → Storage / Observ
 - GenAI projects
 - Collaboration
 
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tauqxxr7&show_icons=true&hide_border=true&theme=transparent)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tauqxxr7&layout=compact&hide_border=true&theme=transparent)
+
+---
 
 ## 📬 Contact
 
