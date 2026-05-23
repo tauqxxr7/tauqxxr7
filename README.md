@@ -51,7 +51,7 @@ Predicts likely customer churn from structured business data using a reproducibl
 - Tech Stack: Python, Pandas, Scikit-learn
 - Source Code: https://github.com/tauqxxr7/churn-prediction-system
 - Status: Research / portfolio ML project
-- Results: Evaluation metrics and model documentation available in repository
+- Results: Evaluation metrics, model documentation, and retention insights available in repository.
 
 ---
 
