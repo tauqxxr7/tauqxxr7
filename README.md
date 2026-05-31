@@ -38,10 +38,6 @@ I build AI-first products, backend systems, and ML workflows with a focus on dep
 - Search/IR systems: Mini Search Engine
 - AI agents: PolicyPilot + AI Mock Interview Coach
 
----
-
-## 📌 Featured Projects
-
 ## 🌟 Flagship Project
 
 ### Customer Churn Prediction System
